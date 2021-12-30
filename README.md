@@ -1,2 +1,3 @@
-# 10.Map-Reduce-Mapper-Side-Join-Example
-Map side join example.
+#MapSide Join .
+
+Description: Map side join example.
